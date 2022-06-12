@@ -1,0 +1,1 @@
+!function(){let e=document.querySelector(".header__burger"),c=document.querySelector(".nav"),t=document.querySelector("body"),o=document.querySelector(".nav__list");e.onclick=function(){e.classList.toggle("active"),c.classList.toggle("active"),t.classList.toggle("lock")},o.onclick=function(){o.classList.remove("active"),t.classList.toggle("lock")}}(),console.log("file 2");
